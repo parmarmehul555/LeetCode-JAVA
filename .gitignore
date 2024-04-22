@@ -4,7 +4,6 @@
 ### Java ###
 # Compiled class file
 /*.class
-/WordPattern.java
 
 # Log file
 *.log
